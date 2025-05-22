@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "your-cloud-project-id",
+  "private_key_id": "your-cloud-private-key-id",
+  "private_key": "your-cloud-private-key",
+  "client_email": "your-cloud-email",
+  "client_id": "your-cloud-client-id",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudsql-sa%40weighty-sled-459211-h7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

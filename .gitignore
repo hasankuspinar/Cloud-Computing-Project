@@ -1,0 +1,21 @@
+# Ignore private keys
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+
+
+# Ignore config files with credentials
+config/secrets.yml
+secrets.json
+credentials.txt
+
+# Ignore IDE settings and OS metadata
+.vscode/
+*.log
+.DS_Store
+
+# ignore node_modules, build artifacts, etc.
+node_modules/
+dist/
+build/
